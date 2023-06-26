@@ -1,3 +1,4 @@
 # MSc-Thesis
- Final Thesis MSc Mathematics LMU Munich /n
+ Final Thesis MSc Mathematics LMU Munich 
+ 
  see /FinalThesis.pdf
