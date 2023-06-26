@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}The Model}{5}{section.2}
+\contentsline {subsection}{\numberline {2.1}Model Description}{5}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Flux, Fixation and Clustering}{8}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Coupling with annihilating random walks}{9}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}The Graphical Representation}{10}{subsection.2.4}
+\contentsline {section}{\numberline {3}2-Feature vectorial Deffuant Model}{12}{section.3}
+\contentsline {section}{\numberline {4}Fixation of the 2-Feature dissociating vec. Deff. Model}{17}{section.4}
+\contentsline {section}{\numberline {5}Fixation in the one-dimensional vec. Deff. \\ Model}{21}{section.5}
+\contentsline {subsection}{\numberline {5.1}The `contribution' variable}{23}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}The `weight' function}{25}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Large deviation estimates for number of j-edges}{27}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Large deviation estimates for the weight}{30}{subsubsection.5.2.2}
+\contentsline {subsection}{\numberline {5.3}Parameters leading to fixation}{34}{subsection.5.3}
+\contentsline {section}{\numberline {6}Simulation on the Torus}{42}{section.6}
+\contentsline {subsection}{\numberline {6.1}Analyses of Simulation Data }{44}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Vectorial Deffuant Model, F=3 and F=4}{44}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}Dissociating Vec. Deff. Model, F=3 and F=4}{46}{subsubsection.6.1.2}
+\contentsline {subsection}{\numberline {6.2}Implications for Simulating Language Change}{47}{subsection.6.2}
+\contentsline {section}{\numberline {7}Appendix A}{50}{section.7}
+\contentsline {subsection}{\numberline {7.1}Duality for (biased) Voter Model d=1}{50}{subsection.7.1}

@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{The Model}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Model Description}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Flux, Fixation and Clustering}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Coupling with annihilating random walks}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{The Graphical Representation}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{2-Feature vectorial Deffuant Model}{}% 7
+\BOOKMARK [1][-]{section.4}{Fixation of the 2-Feature dissociating vec. Deff. Model}{}% 8
+\BOOKMARK [1][-]{section.5}{Fixation in the one-dimensional vec. Deff. \040Model}{}% 9
+\BOOKMARK [2][-]{subsection.5.1}{The `contribution' variable}{section.5}% 10
+\BOOKMARK [2][-]{subsection.5.2}{The `weight' function}{section.5}% 11
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Large deviation estimates for number of j-edges}{subsection.5.2}% 12
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Large deviation estimates for the weight}{subsection.5.2}% 13
+\BOOKMARK [2][-]{subsection.5.3}{Parameters leading to fixation}{section.5}% 14
+\BOOKMARK [1][-]{section.6}{Simulation on the Torus}{}% 15
+\BOOKMARK [2][-]{subsection.6.1}{Analyses of Simulation Data }{section.6}% 16
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Vectorial Deffuant Model, F=3 and F=4}{subsection.6.1}% 17
+\BOOKMARK [3][-]{subsubsection.6.1.2}{Dissociating Vec. Deff. Model, F=3 and F=4}{subsection.6.1}% 18
+\BOOKMARK [2][-]{subsection.6.2}{Implications for Simulating Language Change}{section.6}% 19
+\BOOKMARK [1][-]{section.7}{Appendix A}{}% 20
+\BOOKMARK [2][-]{subsection.7.1}{Duality for \(biased\) Voter Model d=1}{section.7}% 21
